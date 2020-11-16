@@ -1,4 +1,5 @@
 # Martyr Politics
+#### Group Project By: Rafael Cohn-Gruenwald, Hursh Karkhanis, Isaac Campbell-Smith
 ## Twitter Sentiment Analysis around Trump's Covid Diagnosis
 Early this year, British and Brazilian presidents saw momentary [increases in approval ratings  ratings after being diagnosed with Covid-19](https://www.pri.org/stories/2020-10-02/trump-positive-what-catching-covid-19-meant-boris-johnson-jair-bolsonaro). After US President Donald Trump announced he had contracted the virus following the first presidential debate, there were rumblings on the left that Trump was strategically manipulating American sentiment to avoid criticism from his bad debate performance. We set out to see if there was any merit to this claim and if it might have any outcome on the election.
 
